@@ -7,10 +7,14 @@
 🌌 Fun fact: I’m currently obsessed with Stardew Valley!
 
 ## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biplatat@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biplatathapa)
+<a href="mailto:biplatat@gmail.com" style="background-color:#D14836; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; font-size:16px; display:inline-block;">📧 Email Me</a>
+&nbsp;
+<a href="https://linkedin.com/in/biplatathapa" target="_blank" style="background-color:#0077B5; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; font-size:16px; display:inline-block;">💼 Connect on LinkedIn</a>
+</a>
+
 
 <sub>💡 Tip: Right-click (or CMD+Click) to open in a new tab!</sub>
+
 
 # 💻 Tech Stack:
 <p align="left">
